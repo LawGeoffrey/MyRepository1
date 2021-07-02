@@ -1,0 +1,6 @@
+{
+	"files.defaultLanguage": "go",
+	"files.insertFinalNewline": true,
+	"workbench.editor.enablePreview": false,
+	"go.gopath": "D:\\我的文档\\GitHub\\MyRepository1"
+}
